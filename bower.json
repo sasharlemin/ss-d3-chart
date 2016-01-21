@@ -1,0 +1,24 @@
+{
+  "name": "ss-d3-chart",
+  "version": "1.0.0",
+  "main": [
+        "lib/bullet-chart.js",
+        "src/ss.d3-chart.module.js",
+        "src/directives/ssbulletchart.directive.js"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  },
+  "dependencies": {
+    "angular": "~1.4",
+    "d3": "~3.5.12"
+  }
+}
