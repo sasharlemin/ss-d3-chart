@@ -1,0 +1,13 @@
+/*
+* d3 bullet chart styles
+*/
+ss-bullet-chart .bullet { font: 10px sans-serif; }
+ss-bullet-chart .bullet .marker { stroke: #000; stroke-width: 2px; }
+ss-bullet-chart .bullet .tick line { stroke: #666; stroke-width: .5px; }
+ss-bullet-chart .bullet .range.s0 { fill: #ED2E28; }
+ss-bullet-chart .bullet .range.s1 { fill: #38E135; }
+ss-bullet-chart .bullet .range.s2 { fill: #2470FF; }
+ss-bullet-chart .bullet .measure.s0 { fill: lightsteelblue; }
+ss-bullet-chart .bullet .measure.s1 { fill: steelblue; }
+ss-bullet-chart .bullet .title { font-size: 14px; font-weight: bold; }
+ss-bullet-chart .bullet .subtitle { fill: #999; }
